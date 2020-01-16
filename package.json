@@ -1,0 +1,22 @@
+{
+  "name": "loading-mask",
+  "version": "1.1.0",
+  "description": "CSS loading mask Gem for Rails",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-Timur/loading_mask.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mr-Timur/loading_mask/issues"
+  },
+  "homepage": "https://github.com/Mr-Timur/loading_mask#readme"
+}

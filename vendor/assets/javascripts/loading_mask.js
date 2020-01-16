@@ -1,3 +1,5 @@
+import jQuery from 'jquery'
+
 (function($) {
   $.fn.lmask = function( action ) {
     var cls = 'lmask';
